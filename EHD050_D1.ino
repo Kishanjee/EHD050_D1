@@ -12,7 +12,7 @@
 //motor noise in dispense mode solved 
 //---------------------declare the header files----------------------------//
 #include <SPI.h>
-#include <Wire.h>
+#include <Wire.h> //E HYBRID
 #include <Adafruit_GFX.h>
 #include <U8g2lib.h>
 #include <math.h>
